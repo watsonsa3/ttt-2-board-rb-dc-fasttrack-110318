@@ -1,5 +1,4 @@
 # Define the variable board below.
 
-rows = ['','','','','','','','','','']
+rows = ['','','','','','','','','']
 board = rows
-
